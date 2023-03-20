@@ -30,3 +30,4 @@ console.log(res)
 //array.find main array k change korena
 //er moddhe 3ta jinish dorkar hote pare: currentValue,currentIndex,arr
 // array.find er 1st parameter call back function and 2nd parameter this
+//array findindex er array te jodi kono value na thake tahle she -1 return korbe
