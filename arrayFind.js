@@ -14,8 +14,14 @@ console.log(result)
 
 //====================array find index start=====================
 
+var myarr=[1,2,3,4,5,6,7,8,9]
 
+var res=myarr.findIndex((currentValue)=>{
 
+    return currentValue>6
+
+})
+console.log(res)
 
 
 
